@@ -36,6 +36,6 @@ i'm brian - full stack dev with an eye for product + ux/ui.
   <summary> github stats ⚙️ </summary>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengbrian9&layout=compact&theme=material-palenight)
-![Stats](https://github-readme-stats.vercel.app/api?username=chengbrian9&count_private=true&show_icons=true&include_all_commits=true&hide=issues,stars&theme=material-palenight)
+![Stats](https://github-readme-stats.vercel.app/api?username=chengbrian9&count_private=true&show_icons=true&include_all_commits=true&hide=issues,stars,contribs&theme=material-palenight)
   
 </details>
