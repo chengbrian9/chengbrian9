@@ -2,6 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Brian%20Cheng-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brian-cheng24/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-chengbrian24@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chengbrian24@gmail.com "Connect via Email")
+[![Website Badge](https://img.shields.io/badge/-Personal%20Website-blue?style=flat&logo=FontAwesome&logoColor=white)]
+(https://www.chengbrian.com/ "Personal Site")
+
 
   
 i'm brian - full stack dev with an eye for product + ux/ui.
